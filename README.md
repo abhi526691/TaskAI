@@ -4,6 +4,11 @@
 # Introduction
 Task for internship
 
+## Home Page
+![Default Home View](Screenshot1.png "Title")
+
+![Default Home View](Screenshot2.png "Title")
+
 
 
 ### Existing virtualenv
